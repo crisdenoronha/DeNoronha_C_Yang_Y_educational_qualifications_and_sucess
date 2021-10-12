@@ -18,7 +18,6 @@ A discussion about Educational Qualifications
 
 ## Credits
 <p>crisdenoronha - designer and reviewer </p>
-<p>ItzJacksonn - developer and reviewer</p>
 <p>yingyang0729 - copywriter and reviewer</p>
 
 ## License
