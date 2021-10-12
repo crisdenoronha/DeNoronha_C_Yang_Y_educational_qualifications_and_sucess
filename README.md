@@ -1,4 +1,4 @@
-A discussion about Educational Qualifications
+# A discussion about Educational Qualifications
 
 # Will educational qualifications always bring success in life?
 <p>Cristine and Ying Yang decide to argue a topic. They will send their opinions to a new repository.<br> The topic is as below:
