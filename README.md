@@ -21,8 +21,6 @@ Cristine and Ying create a repository and write README.file., Ying and Cristine 
 
 Commit your changes and Push to the branch Submit a pull request and add the reviewers
 
-Credits
-Educational Qualifications and Success Essay:
 
 https://www.ieltsbuddy.com/educational-qualifications-and-success-essay.html
 
@@ -31,7 +29,7 @@ https://tableforchange.com/the-winning-mindset-of-success/sucess/
 
 crisdenoronha - designer and reviewer
 
-yingyang0729 - copywriter and reviewer
+yingyang0729 - copywriter and reviewer -----what
 
 License
 MIT
