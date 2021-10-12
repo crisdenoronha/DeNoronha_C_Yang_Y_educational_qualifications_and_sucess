@@ -1,5 +1,4 @@
 A discussion about Educational Qualifications
-
 # Will educational qualifications always bring success in life?
 <p>Cristine and Ying Yang decide to argue a topic. They will send their opinions to a new repository.<br> The topic is as below:
 <p> Ying believes that educational qualifications will always bring success in life. <br> Cristine says that educational qualifications do not necessarily bring success.</p> 
