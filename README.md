@@ -17,6 +17,9 @@ A discussion about Educational Qualifications
     Submit a pull request and add the reviewers </p>
 
 ## Credits
+<p>Educational Qualifications and Success Essay:</p> 
+<p>https://www.ieltsbuddy.com/educational-qualifications-and-success-essay.html </p>
+<p>Images: https://www.habitatbroward.org/benefits-of-education/ <br> https://tableforchange.com/the-winning-mindset-of-success/sucess/
 <p>crisdenoronha - designer and reviewer </p>
 <p>yingyang0729 - copywriter and reviewer</p>
 
